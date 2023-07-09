@@ -1,5 +1,4 @@
-* {
-	box-sizing: border-box;
+* {	box-sizing: border-box;
 }
 
 body {
@@ -11,6 +10,7 @@ body {
 img {
 	width: 100%;
 	border-radius: 20px;
+	pointer-events: none;
 }
 
 .container {
